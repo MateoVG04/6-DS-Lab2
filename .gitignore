@@ -6,7 +6,7 @@ target/
 
 
 ### Specific files I don't want git to track
-testfile.java
+src/main/java/com/example/demo/testfile.java
 
 ### STS ###
 .apt_generated
